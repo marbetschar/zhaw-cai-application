@@ -1,1 +1,1 @@
-# zhaw-cai-application
+# Application at the CAI of ZHAW
