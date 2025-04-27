@@ -1,0 +1,2 @@
+presentation.svg filter=lfs diff=lfs merge=lfs -text
+presentation.sozi.html filter=lfs diff=lfs merge=lfs -text
