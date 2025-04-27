@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="4038.199mm"
+   height="3882.0344mm"
+   viewBox="0 0 4038.199 3882.0344"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.1 (93de688d07, 2025-03-30)"
+   sodipodi:docname="ARC-Prize.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showborder="false"
+     borderlayer="false"
+     inkscape:zoom="0.052622368"
+     inkscape:cx="6955.2172"
+     inkscape:cy="7696.347"
+     inkscape:window-width="1920"
+     inkscape:window-height="1131"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1" />
+  <rect
+     style="display:inline;fill:#000000;fill-opacity:1;stroke:#dee5f6;stroke-width:0.231182;stroke-opacity:1"
+     id="rect3-4-5-7"
+     width="4037.9678"
+     height="3881.8032"
+     x="0.115591"
+     y="0.115591"
+     ry="813.23944"
+     inkscape:label="AppIconBackground"
+     rx="813.23944" />
+  <g
+     style="display:inline;fill:none"
+     id="g100"
+     transform="matrix(7.2652795,0,0,7.2652795,710.93909,1492.1082)"
+     inkscape:label="Logo">
+    <g
+       fill="#ffffff"
+       id="g8-7">
+      <path
+         d="M 220,50 H 210 V 60 H 170 V 50 H 160 V 10 h 10 V 0 h 40 v 10 h 10 V 20 H 200 V 10 h -20 v 40 h 20 V 40 h 20 z"
+         id="path1-22" />
+      <path
+         d="M 140,60 H 120 V 50 H 110 V 40 H 100 V 60 H 80 V 0 h 50 v 10 h 10 v 20 h -10 v 20 h 10 z M 120,30 V 10 h -20 v 20 z"
+         id="path2-1" />
+      <path
+         d="M 60,60 H 40 V 50 H 20 V 60 H 0 V 20 H 10 V 10 H 20 V 0 H 40 V 10 H 50 V 20 H 60 Z M 40,40 V 20 H 20 v 20 z"
+         id="path3-6" />
+      <path
+         d="M 380,140 H 320 V 80 h 60 v 10 h -40 v 10 h 30 v 10 h -30 v 20 h 40 z"
+         id="path4-3" />
+      <path
+         d="m 300,140 h -60 v -20 h 10 v -10 h 10 v -10 h 10 V 90 H 240 V 80 h 60 v 10 h -10 v 10 h -10 v 10 h -10 v 10 h -10 v 10 h 40 z"
+         id="path5-0" />
+      <path
+         d="m 220,140 h -60 v -10 h 20 V 90 H 160 V 80 h 60 v 10 h -20 v 40 h 20 z"
+         id="path6-2" />
+      <path
+         d="m 140,140 h -20 v -10 h -10 v -10 h -10 v 20 H 80 V 80 h 50 v 10 h 10 v 20 h -10 v 20 h 10 z M 120,110 V 90 h -20 v 20 z"
+         id="path7-15" />
+      <path
+         d="M 60,110 H 50 v 10 H 20 v 20 H 0 V 80 h 50 v 10 h 10 z m -20,0 V 90 H 20 v 20 z"
+         id="path8-6" />
+    </g>
+    <path
+       d="m 240,0 h 60 v 60 h -60 z"
+       fill="#e53aa3"
+       id="path9-50" />
+    <path
+       d="m 320,0 h 60 v 60 h -60 z"
+       fill="#ffdc00"
+       id="path10-0" />
+  </g>
+</svg>
